@@ -34,7 +34,7 @@ const generateMlPredictionInstance = (data) => {
 // Function calls ML endpoint to get classification prediction
 const getMlPrediction = async (data) => {
   // Constants to define the endpoint we are targetting
-  const endpointId = "3307260607606030336"
+  const endpointId = "3700305228210372608"
   const project = "iotssc-project-303420"
   const location = "europe-west4"
   // create the Service Client
